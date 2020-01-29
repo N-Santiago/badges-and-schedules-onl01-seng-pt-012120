@@ -1,4 +1,4 @@
-def batch_maker
+def batch_maker(name)
   puts "Hello, my name is #{name}."
 end 
   
