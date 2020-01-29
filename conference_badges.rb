@@ -5,4 +5,5 @@ def badge_maker(speakers)
 end 
   
 def batch_badge_creator(speakers)
-  return "Hello"
+  return "Hello, my name is #{speakers}."
+end
