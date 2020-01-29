@@ -13,4 +13,5 @@ newarray
 end 
 
 def assign_rooms(array)
-  
+  newarray = []
+  counter = 
