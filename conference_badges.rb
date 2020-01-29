@@ -1,3 +1,4 @@
-def batch_badge_creator(array)
-  
+def batch_badge_creator(name)
+  puts "Hello, my name is {name}."
+end 
   
