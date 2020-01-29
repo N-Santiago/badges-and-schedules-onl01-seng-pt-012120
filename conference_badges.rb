@@ -29,4 +29,5 @@ def printer
   assign_rooms(array).each do |id|
     puts id
   end 
+  printer
 end 
