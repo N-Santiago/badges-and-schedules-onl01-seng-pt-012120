@@ -12,3 +12,5 @@ end
 newarray
 end 
 
+def assign_rooms(array)
+  
